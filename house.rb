@@ -6,3 +6,5 @@ class House
         @kitchen = kitchen
     end
 end
+
+
