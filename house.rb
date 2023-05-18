@@ -10,3 +10,4 @@ class House
         @bedroom
     end
 end
+
