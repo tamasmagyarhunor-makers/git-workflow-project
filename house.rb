@@ -5,6 +5,9 @@ class House
         @bedroom = bedroom
         @kitchen = kitchen
     end
-end
 
+    def sleep 
+        @bedroom
+    end
+end
 
